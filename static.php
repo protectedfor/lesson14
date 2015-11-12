@@ -1,5 +1,7 @@
 <?php
 
+//Comment in master branch
+
 class Math{
 
     public static function getPow($num, $pow){
